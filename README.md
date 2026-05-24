@@ -20,7 +20,6 @@ XAI & Math: OpenCV (Grad-CAM), Matplotlib, Scikit-learn (PCA)
 GUI: Gradio
 
 📂 Struktur Direktori
-Plaintext
 deteksi_kopi/
 ├── data/               # Dataset (train, test, val)
 ├── models/             # best_model.pth
