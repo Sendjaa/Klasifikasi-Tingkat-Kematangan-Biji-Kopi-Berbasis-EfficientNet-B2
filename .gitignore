@@ -1,0 +1,15 @@
+# Folder environment & cache
+venv/
+__pycache__/
+.vscode/
+.ipynb_checkpoints/
+
+# Folder Dataset & Data (PENTING: Jangan upload ke Github!)
+data/
+archive (1).zip
+
+# Folder Model (Jangan upload file .pth)
+models/*.pth
+
+# Folder Hasil (Opsional)
+results/
